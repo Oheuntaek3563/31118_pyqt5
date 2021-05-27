@@ -2,7 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QToolTip
 from PyQt5.QtGui import QFont
 
-""" pyqt5 툴팁 나타내기, 상태바 표시 """
+""" pyqt5 툴팁 나타내기"""
 
 class MyApp(QWidget):
 
