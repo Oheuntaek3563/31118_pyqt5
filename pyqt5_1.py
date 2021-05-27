@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 
-""" pyqt5 창 띄우기"""
+""" 오은택의 pyqt5 창 띄우기"""
 
 class MyApp(QWidget):
 
